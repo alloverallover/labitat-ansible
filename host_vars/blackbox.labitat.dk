@@ -3,5 +3,6 @@ users: {
 	ast: sudo,
 	esmil: sudo,
 	signout: sudo,
-	allover: sudo
+	allover: sudo,
+	hafnium: sudo
 }
